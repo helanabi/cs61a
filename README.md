@@ -30,13 +30,15 @@ From the course syllabus:
 - Week 01: welcome, functions
   - [x] Disc 00
   - [ ] Lab 00 (in progress)
-  - [ ]Homework 1
+  - [ ] Homework 1
 
 ## Disclaimer ##
 
 All course materials referenced in this repository - including but not limited to assignments, text, code snippets, and documentation, are the intellectual property of their respective authors and of the CS61A staff at UC Berkeley.
 They are used here strictly for personal, educational, and non-commercial self-study.
+
 This repository contains only my own solutions and notes.
+
 I am not affiliated with UC Berkeley, I did not attend CS61A as a registered student, and this work is not submitted for academic credit.
 
 If any material in this repository is considered to infringe on the rights of the copyright holders, please contact me and I will promptly make the necessary
@@ -45,4 +47,5 @@ modifications or removals.
 ## License ##
 
 My original solutions and supporting code in this repository are released under the MIT license.
+
 For terms, see the [LICENSE](/LICENSE) file.
