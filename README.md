@@ -1,14 +1,12 @@
 # Overview
 
 This repository hosts my personal solutions to assignments from
-[CS61A: Structure and Interpretation of Computer Programs](https://cs61a.org).
+[CS61A](https://cs61a.org).
 
 I am following the Fall 2024 iteration of the course using two mirrored resources:
 
-- A website archive of the Fall 2024 offering:
-  https://github.com/InsideEmpire/CS61A-Website-Archive
-- A corresponding assignments repository:
-  https://github.com/InsideEmpire/CS61A-Assignments
+- A [website archive](https://github.com/InsideEmpire/CS61A-Website-Archive) of the Fall 2024 offering.
+- A corresponding [assignments repository](https://github.com/InsideEmpire/CS61A-Assignments).
 
 These resources are unofficial mirrors preserved for educational purposes.
 
