@@ -27,8 +27,8 @@ From the course syllabus:
 
 - Week 01: welcome, functions
   - [x] Disc 00
-  - [ ] Lab 00 (in progress)
-  - [ ] Homework 1
+  - [x] Lab 00 (in progress)
+  - [x] Homework 1
 
 ## Disclaimer ##
 
