@@ -2,3 +2,4 @@ __pycache__/
 ok
 *.ok
 tests/
+construct_check.py
