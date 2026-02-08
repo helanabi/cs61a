@@ -10,6 +10,11 @@ I am following the Fall 2024 iteration of the course using two mirrored resource
 
 These resources are unofficial mirrors preserved for educational purposes.
 
+## Motivation ##
+
+I'm going through this course mainly for traceability. As a by-product I'm gaining fluency in Python and refreshing fundamentals while solving fun problems.
+Solutions are intentionally aligned to the course goals, but I occasionally include **commented alternatives** that are shorter or more idiomatic, but use features that are beyond the scope of the exercise being solved.
+
 ## About the course ##
 
 CS61A is part of a series (CS61) taught at the University of California, Berkeley (UCB) as an introduction to computer science.
@@ -27,8 +32,10 @@ From the course syllabus:
 
 - Week 01: welcome, functions
   - [x] Disc 00
-  - [x] Lab 00 (in progress)
+  - [x] Lab 00
   - [x] Homework 1
+- Week 02:
+  - [x] Lab 01
 
 ## Disclaimer ##
 
