@@ -25,7 +25,7 @@ From the course syllabus:
 
 ## Environment ##
 
-* Interpreter: Python 3.13
+* Interpreter: Python 3.13, 3.14
 * Editor: GNU Emacs
 
 ## Progress ##
@@ -34,8 +34,11 @@ From the course syllabus:
   - [x] Disc 00
   - [x] Lab 00
   - [x] Homework 1
-- Week 02:
+- Week 02: control, higher-order functions
   - [x] Lab 01
+  - [x] Disc 01
+  - [ ] Homework 2
+  - [ ] Project 1: Hog
 
 ## Disclaimer ##
 
