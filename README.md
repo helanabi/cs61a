@@ -37,7 +37,7 @@ From the course syllabus:
 - Week 02: control, higher-order functions
   - [x] Lab 01
   - [x] Disc 01
-  - [ ] Homework 2
+  - [x] Homework 2
   - [ ] Project 1: Hog
 
 ## Disclaimer ##
