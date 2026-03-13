@@ -38,7 +38,7 @@ From the course syllabus:
   - [x] Lab 01
   - [x] Disc 01
   - [x] Homework 2
-  - [ ] Project 1: Hog
+  - [x] Project 1: Hog
 
 ## Disclaimer ##
 
