@@ -30,20 +30,20 @@ From the course syllabus:
 
 ## Progress ##
 
-- Week 01: welcome, functions
+- **Week 01: welcome, functions**
   - [x] Disc 00
   - [x] Lab 00
   - [x] Homework 1
-- Week 02: control, higher-order functions
+- **Week 02: control, higher-order functions**
   - [x] Lab 01
   - [x] Disc 01
   - [x] Homework 2
   - [x] Project 1: Hog
-- Week 03: environments, functional abstraction
-  - Skipped
-- Week 04: recursion
+- **Week 03: environments, functional abstraction**
+  - _Skipped_
+- **Week 04: recursion**
   - [x] Homework 3
-- Week 05: ...
+- **Week 05: ...**
 
 ## Disclaimer ##
 
