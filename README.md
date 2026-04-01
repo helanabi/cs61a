@@ -39,6 +39,11 @@ From the course syllabus:
   - [x] Disc 01
   - [x] Homework 2
   - [x] Project 1: Hog
+- Week 03: environments, functional abstraction
+  - Skipped
+- Week 04: recursion
+  - [x] Homework 3
+- Week 05: ...
 
 ## Disclaimer ##
 
